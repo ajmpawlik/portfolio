@@ -1,0 +1,51 @@
+before pairing session set the rules
+* how often feedback
+* how often breaks
+
+MORNING MEETINGS - LEARNING - How we learn? 
+Discussion about the feedback 
+
+WORKSHOP with Alice on DEBUGGING
+
+* helping team 
+* debugging 
+* writing code / refactor; test
+* understand & plan for solution
+* research and learn
+* communicate externally (to other teams or clients) 
+
+40 hours week in 60% of time coding and 60% of that is debugging  
+
+during the course 80% Debugging // 20% Coding
+
+debugging is like opening the door with a tricky lock - by making a small adjustments make it work overtime; driving - many overwhelming things at the beginning but as you progress and learn, your brain melts everything in one thing that you understand and you have a lot of space in your brain. 
+
+Debugging is doing activities to get code to do what you expect that it would. 
+
+What are the steps
+* Reading error messages
+    * Syntax error - the thing that you wrote is not proper ruby
+    * Logic errors — finding by printing
+    * Name Error - this is proper ruby but it show that the variable is not connected (deifned) 
+
+1. READ ERROR
+2. GO TO LINE
+3. USE PRINT
+4. TIGHTEN THE LOOP - getting visibility - by printing/putsing etc; if after printing variable is different that it should be the error is before
+
+After the debugging 
+
+In lib there is a code, in spec are the tests. Obv.
+
+* Opening the file and code carefully around error
+
+* Talking through what happens in the code
+
+* Read user stories - understand what the code should do
+
+p — get the visibility 
+print mock string just to see where we are in the code
+
+validation if the code comes in the good order use p
+
+P(ee) everywhere, tighten the loops. 
